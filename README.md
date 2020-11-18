@@ -1,4 +1,5 @@
 # projeto-bootstrap
-##Curso Bootstrap - Canal Matheus Battisti - Hora de Codar
+##Curso Bootstrap - Canal Matheus Battisti - Hora de Codar##
 
-###Aula 1: Bibliotecas utilizadas
+###Aula 1: Bibliotecas utilizadas: ###
+
